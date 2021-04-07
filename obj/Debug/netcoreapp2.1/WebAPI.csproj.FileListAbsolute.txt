@@ -1,0 +1,14 @@
+G:\DEV\TODOLIST\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.deps.json
+G:\DEV\TODOLIST\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.json
+G:\DEV\TODOLIST\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.dev.json
+G:\DEV\TODOLIST\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.dll
+G:\DEV\TODOLIST\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.pdb
+G:\DEV\TODOLIST\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csprojAssemblyReference.cache
+G:\DEV\TODOLIST\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csproj.CoreCompileInputs.cache
+G:\DEV\TODOLIST\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cache
+G:\DEV\TODOLIST\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cs
+G:\DEV\TODOLIST\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfoInputs.cache
+G:\DEV\TODOLIST\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfo.cs
+G:\DEV\TODOLIST\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorTargetAssemblyInfo.cache
+G:\DEV\TODOLIST\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
+G:\DEV\TODOLIST\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb
