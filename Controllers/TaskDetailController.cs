@@ -20,6 +20,7 @@ namespace WebAPI.Controllers
             _context = context;
         }
 
+        //Retrive Data from Database
         // GET: api/TaskDetail
         [HttpGet]
         public IEnumerable<TaskDetail> GetTaskDetails()
@@ -46,6 +47,7 @@ namespace WebAPI.Controllers
             return Ok(taskDetail);
         }
 
+        //Update Query
         // PUT: api/TaskDetail/5
         [HttpPut("{id}")]
         public async Task<IActionResult> PutTaskDetail([FromRoute] int id, [FromBody] TaskDetail taskDetail)

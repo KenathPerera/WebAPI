@@ -12,6 +12,9 @@ namespace WebAPI.Models
         [Key]
         public int TaskId { get; set; }
         [Required]
+        [Column(TypeName = "varchar(200)")]
+        public string TaskName { get; set; }
+        [Required]
         public int Progress { get; set; }
         [Required]
 
